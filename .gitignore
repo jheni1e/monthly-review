@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Vite files
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+.vite/
