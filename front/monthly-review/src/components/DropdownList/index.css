@@ -5,23 +5,19 @@
 }
 
 .dropdown-select {
-  appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-
+  appearance: none;
   background: black;
   color: white;
-
   border: none;
   border-radius: 999px;
-
   padding: 10px 42px 10px 18px;
-
   font-size: 14px;
   font-family: inherit;
-
   cursor: pointer;
   outline: none;
+  height: 50px;
 }
 
 .dropdown-icon {
