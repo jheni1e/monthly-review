@@ -1,4 +1,4 @@
-import MonthlyCalendar from "./components/MonthlyCalendar";
+import MonthlyCalendar from "../../components/MonthlyCalendar";
 
 function MonthlyView() {
   return (

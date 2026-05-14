@@ -61,6 +61,7 @@
 }
 
 .empty-cell {
+    background-color: #fff;
   border: 1px solid #cfcfcf;
   min-height: 140px;
 }
