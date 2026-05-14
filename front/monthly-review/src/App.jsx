@@ -1,10 +1,10 @@
 import "./App.css";
-import MonthlyCalendar from "./components/MonthlyCalendar";
+import MonthlyView from "./pages/MonthlyView";
 
 function App() {
   return (
     <>
-      <MonthlyCalendar />
+      <MonthlyView />
     </>
   );
 }
