@@ -20,6 +20,10 @@
   height: 50px;
 }
 
+.dropdown-select:hover {
+  opacity: 0.8;
+}
+
 .dropdown-icon {
   position: absolute;
   width: 16px;
