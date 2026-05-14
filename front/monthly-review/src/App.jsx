@@ -1,16 +1,12 @@
-import './App.css'
-import DayCell from './components/DayCell'
-import { mockEvents } from './mocks/mockEvents'
+import "./App.css";
+import MonthlyCalendar from "./components/MonthlyCalendar";
 
 function App() {
   return (
     <>
-    <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100vh", flexDirection: "column" }}>
-      <h1>May 2026</h1>
-      <DayCell day={1} events={mockEvents} />
-    </div>
+      <MonthlyCalendar />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
